@@ -1,0 +1,12 @@
+Newsletter Daten Export Export 1.1.0 für Zen Cart 1.5.6 deutsch
+
+Dieses Tool exportiert Name, Geschlecht und Email der Kunden, die sich in Zen Cart für den Newsletter angemeldet haben zum Import in echte Newslettersysteme.
+Generiert wird eine csv Datei mit Trennzeichen Komma und Zeichensatz utf-8.
+Empfohlenes Programm zum Öffnen/Bearbeiten von csv Dateien: Open Office (http://www.openoffice.org/de/)
+
+
+Installation:
+
+Im Ordner NEUE DATEIEN den Ordner DEINADMIN auf den Namen des Adminverzeichnisses umbenennen.
+Dann in der vorgegebenen Struktur ins Shopverzeichnis hochladen, dabei werden keine bestehenden Dateien überschrieben.
+In der Zen Cart Administration ist nun unter Kunden der neue Menüpunkt "Newsletter Daten Export" vorhanden.
